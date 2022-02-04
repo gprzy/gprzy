@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=gprzy&color=yellow" alt="gprzy"/>
+
 ### Hello 👋
 
 <!--**GabrielPrzy/GabrielPrzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
