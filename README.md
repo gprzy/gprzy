@@ -16,6 +16,8 @@
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
+<br>
+
 <div style="display: inline_block">
   <img align="center" alt="tensorflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
