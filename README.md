@@ -12,8 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=8&theme=bear)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=7&theme=bear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 <br>
