@@ -8,8 +8,13 @@
 - 🌱 I am studying computer science at [PUCPR](https://www.pucpr.br/), where I carry out [PIBIC](https://www.pucpr.br/iniciacaocientifica/) research on stock predictions using neural networks
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/gabriel-przytocki/) or my e-mail: gabrielhprzytocki@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&include_all_commits=true&&theme=bear) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=8&theme=bear)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=7&theme=bear"/>
+</div>
 
 <div style="display: inline_block">
   <img align="center" alt="tensorflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
