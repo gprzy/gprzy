@@ -8,8 +8,13 @@
 - 🌱 I am studying computer science at [PUCPR](https://www.pucpr.br/), where I carry out [PIBIC](https://www.pucpr.br/iniciacaocientifica/) research on stock predictions using neural networks
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/gabriel-przytocki/) or my e-mail: gabrielhprzytocki@gmail.com
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&include_all_commits=true&&theme=bear) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=8&theme=bear)](https://github.com/anuraghazra/github-readme-stats) -->
+  <a href="https://www.linkedin.com/in/gabriel-przytocki/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-przytocki/"/>
+  </a>
+
+  <a href="mailto:gabrielhprzytocki@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielhprzytocki@gmail.com"/>
+  </a>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>
