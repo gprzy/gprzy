@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielhprzytocki@gmail.com"/>
   </a>
   
-  <a href="https://github.com/gprzy/gprzy/blob/main/assets/cv_black_and_blue.png" alt="CV">
+  <a href="https://github.com/gprzy/gprzy/blob/main/assets/cv_blue_and_pink.png" alt="CV">
     <img src="https://img.shields.io/badge/%20-CV%20-FF8C67"/>
   </a>
 
