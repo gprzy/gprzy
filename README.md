@@ -15,6 +15,10 @@
   <a href="mailto:gabrielhprzytocki@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielhprzytocki@gmail.com"/>
   </a>
+  
+  <a href="https://github.com/gprzy/gprzy/blob/main/assets/cv_black_and_blue.png" alt="CV">
+    <img src="https://img.shields.io/badge/%20-CV%20-FF8C67"/>
+  </a>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>
