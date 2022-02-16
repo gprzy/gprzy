@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielhprzytocki@gmail.com"/>
   </a>
   
-  <a href="https://github.com/gprzy/gprzy/blob/main/assets/cv_blue_and_pink.png" alt="CV">
+  <a href="https://github.com/gprzy/gprzy/blob/main/assets/cv_black.png" alt="CV">
     <img src="https://img.shields.io/badge/%20-CV%20-FF8C67"/>
   </a>
 
@@ -35,6 +35,5 @@
   <img align="center" alt="numpy" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="jupyter" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="vscode" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="bash" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img align="center" alt="docker" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
