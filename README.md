@@ -21,11 +21,11 @@
   </a>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
-<br>
+<!-- <br>
 
 <div style="display: inline_block">
   <img align="center" alt="cplusplus" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -37,4 +37,4 @@
   <img align="center" alt="jupyter" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="vscode" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="docker" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-</div>
+</div> -->
