@@ -5,7 +5,7 @@
 <!--**GabrielPrzy/GabrielPrzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🧩 I'm a problem solving enthusiast
 - 🔭 I am currently working as a Data Scientist at [Junto Seguros](https://www.juntoseguros.com/)
-- 🌱 I have a degree in Computer Science at [PUCPR](https://www.pucpr.br/), where I carry out more that 2 years of [PIBIC](https://www.pucpr.br/iniciacaocientifica/) research on stock predictions using neural networks. I'm also doing a specialization in Data Science in UFPR
+- 🌱 I have a bachelor degree in Computer Science at [PUCPR](https://www.pucpr.br/), where I carry out 2+ years of [PIBIC](https://www.pucpr.br/iniciacaocientifica/) scientific research on Time Series forecasting using neural networks. I'm also doing a specialization in Data Science and Big Data at UFPR
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/gabriel-przytocki/) or my e-mail: gabrielhprzytocki@gmail.com
 
   <a href="https://www.linkedin.com/in/gabriel-przytocki/" alt="Linkedin">
