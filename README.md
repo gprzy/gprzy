@@ -20,14 +20,16 @@
     <img src="https://img.shields.io/badge/%20-CV%20-FF8C67"/>
   </a>
 
+### GitHub Stats and Stack 🛠
+
 <div>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
-<!-- <br>
+<br>
 
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <img align="center" alt="cplusplus" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="cplusplus" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
