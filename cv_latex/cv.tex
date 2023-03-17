@@ -68,13 +68,13 @@
   \vspace{-1pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
-      {#3} & \textit{\small #4} \\
+      {#3} & \small #4 \\
     \end{tabular*}\vspace{-5pt}
 }
 
 \newcommand{\resumeSubSubheading}[2]{
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      {#1} & \textit{\small #2} \\
+      {#1} & \small #2 \\
     \end{tabular*}\vspace{-5pt}
 }
 
@@ -92,7 +92,7 @@
 % Heading
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
   \textbf{{\LARGE Gabriel Przytocki}} & \small{\textbf{E-mail}:} \href{mailto:gabrielhprzytocki@gmail.com}{\color{black}\small{\texttt{gabrielhprzytocki@gmail.com}}} \\
-  \texttt{Cientista de Dados} & \small{\textbf{Github}}: \href{https://github.com/gprzy}{\color{black}\small{\texttt{https://github.com/gprzy}}}
+  \texttt{Cientista de Dados | Engenheiro de Machine Learning} & \small{\textbf{Github}}: \href{https://github.com/gprzy}{\color{black}\small{\texttt{https://github.com/gprzy}}}
 \end{tabular*}
 
 % Education
@@ -113,13 +113,14 @@
         \begin{itemize}
         \small{
             \color{gray}{
-            \item {Criação de modelos e \textit{pipelines} resilientes de \texttt{NLP};
-                \hspace{30pt}  Extração de dados em textos (Python, Regex \& \texttt{Spacy});}
-            \item {Manipulação de dados (\texttt{Pandas} \& \texttt{Numpy});
+            \item {Criação de modelos de \texttt{Machine Learning};
+                \hspace{60pt}  Orquestração de processos com Airflow;}
+            \item {Criação de \textit{Pipelines} de Machine Learning;
                 \hspace{60pt}  \textit{Computer Vision} (\texttt{OpenCV} e \texttt{Pytesseract OCR});}
-            \item {\textit{Webscraping} de dados públicos (Selenium \& \texttt{BS5});
-                \hspace{26pt}  \texttt{ETLs} de dados não estruturados (Airlfow, \texttt{Aria2});}
-            \item Modelagem relacional de dados (\texttt{T-SQL});
+            \item Aplicação de boas práticas de MLOPs;
+                \hspace{77pt}  \textit{Pipelines} de extração de dados (\texttt{ETL});}
+            \item Modelagem relacional de dados (\texttt{SQL Server});
+                \hspace{46pt}  Python (\texttt{scikit-learn, tensorflow, numpy, pandas});}
             }
         }
         \end{itemize}
@@ -142,7 +143,7 @@
 
     \resumeSubheading
       {Pontifícia Universidade Católica do Paraná}{Curitiba, Brasil}
-      {$\rightarrow$ \color{black}\texttt{PIBIC Undergraduate Researcher 2021-2022}}{Jul. 2021 - Jul. 2022}
+      {$\rightarrow$ \color{black}\texttt{PIBIC Undergraduate Researcher}}{Jul. 2021 - Jul. 2022}
       \begin{itemize}
       \small{
           \color{gray}{
@@ -157,7 +158,7 @@
       \end{itemize}
       
       \resumeSubSubheading
-      {$\rightarrow$ \color{black}\texttt{PIBIC Undergraduate Researcher 2020-2021}}{Ago. 2020 - Ago. 2021}
+      {$\rightarrow$ \color{black}\texttt{PIBIC Undergraduate Researcher}}{Ago. 2020 - Ago. 2021}
       \begin{itemize}
       \small{
           \color{gray}{
@@ -216,7 +217,7 @@
   \section{Idiomas}
   \small{
       \color{gray}{
-      \textbf{Português}: Fluente ou Nativo \hspace{18pt} \textbf{Inglês}: Nível Avançado \hspace{18pt} \textbf{Espanhol} Nível Intermediário
+      \textbf{Português}: Fluente ou Nativo \hspace{18pt} \textbf{Inglês}: Nível Avançado \hspace{18pt}
       }
   }
   
@@ -245,24 +246,26 @@
  \resumeSubHeadingListStart
     \color{gray}
     \small{
-        \item {\textbf{Processamento Distribuído}: \texttt{HadoopMapReduce} \& \texttt{Pyspark};}
-            \hspace{20pt} \textbf{Versionamento}: \texttt{Git};
+        \item {\textbf{Machine Learning}: \texttt{scikit-learn} \& \texttt{tensorflow};}
+            \hspace{65pt} \textbf{Versionamento}: \texttt{Git, GitHub};
+        \item {\textbf{Estatística}: Descritiva, Inferência (\texttt{scipy});}
+            \hspace{104pt} \textbf{Conteneirização}: \texttt{Docker, docker-compose};
         \item{
          {{\textbf{Banco de Dados}: \texttt{SQL (T-SQL)} \& \texttt{SQL} Server;}
-            \hspace{90pt}\textbf{Linguagens}: \texttt{Python, C++ \& Java};}
+            \hspace{90pt}\textbf{Linguagens}: \texttt{Python, C++, R, Julia \& Java};}
         }
         \item{
-        {{\textbf{Machine Learning}: \texttt{scikit-learn, keras} \& \texttt{tensorflow};
-            \hspace{29pt} \textbf{Soft Skills}: \textit{Problem Solving, Communication};}}
-        \item{\textbf{Microsserviços e} \texttt{APIs} \texttt{REST}\textit{ful}: {Cloud Functions, \texttt{Flask}};
-            \hspace{39pt} \textbf{Conteinerização}: Docker \& Docker Compose}
+        {{\textbf{Processamento Distribuído}: \texttt{pyspark} \& \texttt{Hadoop MapReduce};
+            \hspace{15pt} \textbf{Soft Skills}: \textit{Problem Solving, Communication};}}
+        \item{\textbf{Microsserviços e} \texttt{APIs} \texttt{REST}\textit{ful}: {Cloud Functions, \texttt{flask}};
+            \hspace{38pt} \textbf{Cloud}: GCP \& AWS};
         }
-        \item{ \textbf{ETL}: Airflow, \texttt{SQL} Server \& Google Cloud Platform
-            \hspace{67pt} \textbf{Manipulação de Dados}: \texttt{Pandas} \& \texttt{Numpy};}
-        \item{\textbf{Visualização de Dados}: \texttt{Matplotlib} \& \texttt{Seaborn};
-            \hspace{71pt} \textbf{Séries Temporais}: \texttt{Statsmodels} \& \texttt{Pycaret};}
-        \item{\textbf{Deploy e Monitoramento}: \texttt{MLFlow} \& \texttt{GCP};
-            \hspace{99pt} \textbf{NLP}: \texttt{Spacy} \& \texttt{Regex};}
+        \item{ \textbf{ETL}: Airflow, \texttt{SQL} Server \& Cloud Functions;
+            \hspace{93pt} \textbf{Manipulação de Dados}: \texttt{pandas} \& \texttt{numpy};}
+        \item{\textbf{Visualização de Dados}: \texttt{matplotlib} \& \texttt{seaborn};
+            \hspace{70pt} \textbf{Séries Temporais}: \texttt{statsmodels} \& \texttt{pycaret};}
+        \item{\textbf{MLOPs}: \texttt{mlflow, metaflow};
+            \hspace{163pt} \textbf{NLP}: \texttt{spacy} \& \texttt{nltk};}
     }
  \resumeSubHeadingListEnd
  
@@ -270,13 +273,15 @@
  \resumeSubHeadingListStart
     \color{gray}
     \small{
-        \item {\textit{Architecting with Google Compute Engine} (Curso de curta duração - \textbf{Coursera});}
-        \item {\textit{Elastic Google Cloud Infrastructure: Scaling and Automation} (Curso de curta duração - \textbf{Coursera});}
-        \item {\textit{Essential Google Cloud Infrastructure: Core Services} (Curso de curta duração - \textbf{Coursera});}
-        \item {\textit{Essential Google Cloud Infrastructure: Foundation} (Curso de curta duração - \textbf{Coursera});}
-        \item {\textit{Google Cloud Platform Fundamentals: Core Infrastructure} (Curso de curta duração - \textbf{Coursera});}
-        \item {\textit{Reliable Google Cloud Infrastructure: Design and Process} (Curso de curta duração - \textbf{Coursera});}
-        \item {Analista Desenvolvedor (Certificado Profissional - \textbf{Pontifícia Universidade Católica do Paraná});}
+        \item {\textit{Machine Learning Specialization} - (\textbf{Stanford, Coursera});}
+        \item {\textit{Deep Learning Specialization} - (\textbf{DeepLearning.AI, Coursera});}
+        \item {\textit{Architecting with Google Compute Engine} (\textbf{Coursera});}
+        \item {\textit{Elastic Google Cloud Infrastructure: Scaling and Automation} (\textbf{Coursera});}
+        \item {\textit{Essential Google Cloud Infrastructure: Core Services} (\textbf{Coursera});}
+        \item {\textit{Essential Google Cloud Infrastructure: Foundation} (\textbf{Coursera});}
+        \item {\textit{Google Cloud Platform Fundamentals: Core Infrastructure} (\textbf{Coursera});}
+        \item {\textit{Reliable Google Cloud Infrastructure: Design and Process} (\textbf{Coursera});}
+        \item {\textit{Analyst Developer} (Certificado Profissional - \textbf{Pontifícia Universidade Católica do Paraná});}
         \item {\textit{Data Scientist} (Certificado Profissional - \textbf{Pontifícia Universidade Católica do Paraná});}
     }
  \resumeSubHeadingListEnd
