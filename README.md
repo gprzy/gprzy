@@ -7,7 +7,7 @@
 - 🧩 I am a problem solving enthusiast;
 - 🔭 I am currently working as a Data Scientist at [@Junto Seguros](https://www.juntoseguros.com/);
 - 🤺 I'm doing a specialization in Data Science and Big Data at [@UFPR](https://ufpr.br/);
-- 🧶 My main interests are in Mathematics, Machine Learning, Cybersecurity and Competitive Programming;
+- 🧶 My main interests are Mathematics, Machine Learning and Cybersecurity;
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/gabriel-przytocki/) or my e-mail — gabrielhprzytocki@gmail.com
 
 <div align="center">
