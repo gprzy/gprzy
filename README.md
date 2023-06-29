@@ -5,9 +5,9 @@
 <!--**GabrielPrzy/GabrielPrzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🌱 I am a Computer Scientist ([@PUCPR](https://www.pucpr.br/));
 - 🧩 I am a problem solving enthusiast;
+- 🪀 I'm doing a specialization in Data Science and Big Data at [@UFPR](https://ufpr.br/);
 - 🔭 I am currently working as a Data Scientist at [@Junto Seguros](https://www.juntoseguros.com/);
-- 🤺 I'm doing a specialization in Data Science and Big Data at [@UFPR](https://ufpr.br/);
-- 🧶 My main interests are Mathematics, Machine Learning and Cybersecurity;
+- 🧶 My main interests are Mathematics and Machine Learning;
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/gabriel-przytocki/) or my e-mail — gabrielhprzytocki@gmail.com
 
 <div align="center">
