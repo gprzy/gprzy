@@ -3,10 +3,10 @@
 ### Hello 👋
 
 <!--**GabrielPrzy/GabrielPrzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🌱 I am a Computer Scientist ([@PUCPR](https://www.pucpr.br/));
 - 🧩 I am a problem solving enthusiast;
-- 🪀 I'm doing a specialization in Data Science and Big Data at [@UFPR](https://ufpr.br/);
-- 🔭 I am currently working as a Data Scientist at [@Junto Seguros](https://www.juntoseguros.com/);
+- 🔭 I'm currently working as a Data Scientist at [@Junto Seguros](https://www.juntoseguros.com/);
+- 🪀 I'm a Specialist in Data Science and Big Data, and M.Sc. candidate in Computer Science at [@UFPR](https://ufpr.br/);
+- 🌱 Bachelor's degree in Computer Science at [@PUCPR](https://www.pucpr.br/);
 - 🧶 My main interests are Mathematics and Machine Learning;
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/gabriel-przytocki/) or my e-mail — gabrielhprzytocki@gmail.com
 
