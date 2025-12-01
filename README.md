@@ -4,13 +4,12 @@
 
 <!--**GabrielPrzy/GabrielPrzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🧩 I am a problem solving enthusiast;
-- 🔭 I'm currently working as a Data Scientist at [@Junto Seguros](https://www.juntoseguros.com/);
-- 🪀 I'm a Specialist in Data Science and Big Data, and M.Sc. candidate in Computer Science at [@UFPR](https://ufpr.br/);
+- 🔭 I'm currently working as a Data Scientist at @Globo;
+- 🪀 I'm a Specialist in Data Science and Big Data ([@UFPR](https://ufpr.br/));
 - 🌱 Bachelor's degree in Computer Science at [@PUCPR](https://www.pucpr.br/);
-- 🧶 My main interests are Mathematics and Machine Learning;
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/gabriel-przytocki/) or my e-mail — gabrielhprzytocki@gmail.com
 
-<div align="center">
+<!--<div align="center">
   <a href="https://www.linkedin.com/in/gabriel-przytocki/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-przytocki/"/>
   </a>
@@ -22,12 +21,12 @@
   <a href="https://github.com/gprzy/gprzy/blob/main/cv.pdf" alt="CV">
     <img src="https://img.shields.io/badge/%20-CV%20-FF8C67"/>
   </a>
-</div>
+</div>-->
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprzy&show_icons=true&theme=bear&include_all_commits=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprzy&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
